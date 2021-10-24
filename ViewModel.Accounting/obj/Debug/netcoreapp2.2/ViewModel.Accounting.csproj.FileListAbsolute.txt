@@ -1,0 +1,9 @@
+D:\Programing\Asp_Net_Core\Accounting\Accounting\ViewModel.Accounting\bin\Debug\netcoreapp2.2\ViewModel.Accounting.deps.json
+D:\Programing\Asp_Net_Core\Accounting\Accounting\ViewModel.Accounting\bin\Debug\netcoreapp2.2\ViewModel.Accounting.dll
+D:\Programing\Asp_Net_Core\Accounting\Accounting\ViewModel.Accounting\bin\Debug\netcoreapp2.2\ViewModel.Accounting.pdb
+D:\Programing\Asp_Net_Core\Accounting\Accounting\ViewModel.Accounting\obj\Debug\netcoreapp2.2\ViewModel.Accounting.csprojAssemblyReference.cache
+D:\Programing\Asp_Net_Core\Accounting\Accounting\ViewModel.Accounting\obj\Debug\netcoreapp2.2\ViewModel.Accounting.csproj.CoreCompileInputs.cache
+D:\Programing\Asp_Net_Core\Accounting\Accounting\ViewModel.Accounting\obj\Debug\netcoreapp2.2\ViewModel.Accounting.AssemblyInfoInputs.cache
+D:\Programing\Asp_Net_Core\Accounting\Accounting\ViewModel.Accounting\obj\Debug\netcoreapp2.2\ViewModel.Accounting.AssemblyInfo.cs
+D:\Programing\Asp_Net_Core\Accounting\Accounting\ViewModel.Accounting\obj\Debug\netcoreapp2.2\ViewModel.Accounting.dll
+D:\Programing\Asp_Net_Core\Accounting\Accounting\ViewModel.Accounting\obj\Debug\netcoreapp2.2\ViewModel.Accounting.pdb

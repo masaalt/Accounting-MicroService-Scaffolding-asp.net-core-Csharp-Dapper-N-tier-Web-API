@@ -1,0 +1,12 @@
+D:\Programing\Asp_Net_Core\Accounting\Accounting\IRepository.Accounting\bin\Debug\netcoreapp2.2\IRepository.Accounting.deps.json
+D:\Programing\Asp_Net_Core\Accounting\Accounting\IRepository.Accounting\bin\Debug\netcoreapp2.2\IRepository.Accounting.dll
+D:\Programing\Asp_Net_Core\Accounting\Accounting\IRepository.Accounting\bin\Debug\netcoreapp2.2\IRepository.Accounting.pdb
+D:\Programing\Asp_Net_Core\Accounting\Accounting\IRepository.Accounting\bin\Debug\netcoreapp2.2\ViewModel.Accounting.dll
+D:\Programing\Asp_Net_Core\Accounting\Accounting\IRepository.Accounting\bin\Debug\netcoreapp2.2\ViewModel.Accounting.pdb
+D:\Programing\Asp_Net_Core\Accounting\Accounting\IRepository.Accounting\obj\Debug\netcoreapp2.2\IRepository.Accounting.csprojAssemblyReference.cache
+D:\Programing\Asp_Net_Core\Accounting\Accounting\IRepository.Accounting\obj\Debug\netcoreapp2.2\IRepository.Accounting.csproj.CoreCompileInputs.cache
+D:\Programing\Asp_Net_Core\Accounting\Accounting\IRepository.Accounting\obj\Debug\netcoreapp2.2\IRepository.Accounting.AssemblyInfoInputs.cache
+D:\Programing\Asp_Net_Core\Accounting\Accounting\IRepository.Accounting\obj\Debug\netcoreapp2.2\IRepository.Accounting.AssemblyInfo.cs
+D:\Programing\Asp_Net_Core\Accounting\Accounting\IRepository.Accounting\obj\Debug\netcoreapp2.2\IRepository.Accounting.csproj.CopyComplete
+D:\Programing\Asp_Net_Core\Accounting\Accounting\IRepository.Accounting\obj\Debug\netcoreapp2.2\IRepository.Accounting.dll
+D:\Programing\Asp_Net_Core\Accounting\Accounting\IRepository.Accounting\obj\Debug\netcoreapp2.2\IRepository.Accounting.pdb
