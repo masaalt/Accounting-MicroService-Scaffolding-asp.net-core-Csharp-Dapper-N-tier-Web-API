@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AccountingApi</name>
+    </assembly>
+    <members>
+        <member name="M:AccountingApi.Controllers.CountryController.#ctor(IRepository.Accounting.ICountryRepository,Framework.ResultModel.Result)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="countryRepository"></param>
+            <param name="result"></param>
+        </member>
+        <member name="M:AccountingApi.Controllers.CountryController.Get">
+             <summary>
+             مشاهده لیست کشور
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 api/countries
+                 {
+                 }
+            
+             </remarks>
+             <returns>لیست کشور</returns>
+             <response code="200">موفق</response>
+             <response code="400">ناموفق</response>
+             <response code="401">عدم دسترسی</response>
+        </member>
+        <member name="M:AccountingApi.Controllers.CountryController.Post(ViewModel.Accounting.ViewModels.CountryViewModel)">
+             <summary>
+              درج کشور جدید
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 api/countries
+                 {
+                     "countryCode": "12345",
+                     "countryName": "ایران",
+                     "defaultCode": "12345",
+                     "population": 1,
+                     "area": 1,
+                     "distance": 1,
+                     "lenWid": 1,
+                     "capital": "تست",
+                     "time": "2019-08-05T18:54:26.276Z"
+                 }
+            
+             </remarks>
+             <returns></returns>
+             <response code="200">موفق</response>
+             <response code="400">ناموفق</response>
+             <response code="401">عدم دسترسی</response>
+        </member>
+        <member name="M:AccountingApi.Controllers.CountryController.Put(ViewModel.Accounting.ViewModels.CountryViewModel)">
+             <summary>
+              ویرایش کشور
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 api/countries
+                 {
+                     "countryId": 1,
+                     "countryCode": "12345",
+                     "countryName": "ایران",
+                     "defaultCode": "12345",
+                     "population": 1,
+                     "area": 1,
+                     "distance": 1,
+                     "lenWid": 1,
+                     "capital": "تست",
+                     "time": "2019-08-05T18:54:26.276Z"
+                 }
+            
+             </remarks>
+             <returns></returns>
+             <response code="200">موفق</response>
+             <response code="400">ناموفق</response>
+             <response code="401">عدم دسترسی</response>
+        </member>
+        <member name="M:AccountingApi.Controllers.CountryController.Delete(System.Int32)">
+             <summary>
+              حذف کشور
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 api/countries/1
+                 {
+                 }
+            
+             </remarks>
+             <returns></returns>
+             <response code="200">موفق</response>
+             <response code="400">ناموفق</response>
+             <response code="401">عدم دسترسی</response>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,376 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Programing\\Asp_Net_Core\\Accounting\\Accounting\\AccountingApi\\AccountingApi.csproj": {}
+  },
+  "projects": {
+    "D:\\Programing\\Asp_Net_Core\\Accounting\\Accounting\\AccountingApi\\AccountingApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programing\\Asp_Net_Core\\Accounting\\Accounting\\AccountingApi\\AccountingApi.csproj",
+        "projectName": "AccountingApi",
+        "projectPath": "D:\\Programing\\Asp_Net_Core\\Accounting\\Accounting\\AccountingApi\\AccountingApi.csproj",
+        "packagesPath": "C:\\Users\\MohammadMahdi\\.nuget\\packages\\",
+        "outputPath": "D:\\Programing\\Asp_Net_Core\\Accounting\\Accounting\\AccountingApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MohammadMahdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\Programing\\Asp_Net_Core\\Accounting\\Accounting\\Framework\\Framework.csproj": {
+                "projectPath": "D:\\Programing\\Asp_Net_Core\\Accounting\\Accounting\\Framework\\Framework.csproj"
+              },
+              "D:\\Programing\\Asp_Net_Core\\Accounting\\Accounting\\IRepository.Accounting\\IRepository.Accounting.csproj": {
+                "projectPath": "D:\\Programing\\Asp_Net_Core\\Accounting\\Accounting\\IRepository.Accounting\\IRepository.Accounting.csproj"
+              },
+              "D:\\Programing\\Asp_Net_Core\\Accounting\\Accounting\\Repository.Accounting\\Repository.Accounting.csproj": {
+                "projectPath": "D:\\Programing\\Asp_Net_Core\\Accounting\\Accounting\\Repository.Accounting\\Repository.Accounting.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[4.8.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Programing\\Asp_Net_Core\\Accounting\\Accounting\\Framework.Enum\\Framework.Enum.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programing\\Asp_Net_Core\\Accounting\\Accounting\\Framework.Enum\\Framework.Enum.csproj",
+        "projectName": "Framework.Enum",
+        "projectPath": "D:\\Programing\\Asp_Net_Core\\Accounting\\Accounting\\Framework.Enum\\Framework.Enum.csproj",
+        "packagesPath": "C:\\Users\\MohammadMahdi\\.nuget\\packages\\",
+        "outputPath": "D:\\Programing\\Asp_Net_Core\\Accounting\\Accounting\\Framework.Enum\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MohammadMahdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Programing\\Asp_Net_Core\\Accounting\\Accounting\\Framework\\Framework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programing\\Asp_Net_Core\\Accounting\\Accounting\\Framework\\Framework.csproj",
+        "projectName": "Framework",
+        "projectPath": "D:\\Programing\\Asp_Net_Core\\Accounting\\Accounting\\Framework\\Framework.csproj",
+        "packagesPath": "C:\\Users\\MohammadMahdi\\.nuget\\packages\\",
+        "outputPath": "D:\\Programing\\Asp_Net_Core\\Accounting\\Accounting\\Framework\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MohammadMahdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\Programing\\Asp_Net_Core\\Accounting\\Accounting\\Framework.Enum\\Framework.Enum.csproj": {
+                "projectPath": "D:\\Programing\\Asp_Net_Core\\Accounting\\Accounting\\Framework.Enum\\Framework.Enum.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Programing\\Asp_Net_Core\\Accounting\\Accounting\\IRepository.Accounting\\IRepository.Accounting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programing\\Asp_Net_Core\\Accounting\\Accounting\\IRepository.Accounting\\IRepository.Accounting.csproj",
+        "projectName": "IRepository.Accounting",
+        "projectPath": "D:\\Programing\\Asp_Net_Core\\Accounting\\Accounting\\IRepository.Accounting\\IRepository.Accounting.csproj",
+        "packagesPath": "C:\\Users\\MohammadMahdi\\.nuget\\packages\\",
+        "outputPath": "D:\\Programing\\Asp_Net_Core\\Accounting\\Accounting\\IRepository.Accounting\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MohammadMahdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\Programing\\Asp_Net_Core\\Accounting\\Accounting\\ViewModel.Accounting\\ViewModel.Accounting.csproj": {
+                "projectPath": "D:\\Programing\\Asp_Net_Core\\Accounting\\Accounting\\ViewModel.Accounting\\ViewModel.Accounting.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Programing\\Asp_Net_Core\\Accounting\\Accounting\\Repository.Accounting\\Repository.Accounting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programing\\Asp_Net_Core\\Accounting\\Accounting\\Repository.Accounting\\Repository.Accounting.csproj",
+        "projectName": "Repository.Accounting",
+        "projectPath": "D:\\Programing\\Asp_Net_Core\\Accounting\\Accounting\\Repository.Accounting\\Repository.Accounting.csproj",
+        "packagesPath": "C:\\Users\\MohammadMahdi\\.nuget\\packages\\",
+        "outputPath": "D:\\Programing\\Asp_Net_Core\\Accounting\\Accounting\\Repository.Accounting\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MohammadMahdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\Programing\\Asp_Net_Core\\Accounting\\Accounting\\IRepository.Accounting\\IRepository.Accounting.csproj": {
+                "projectPath": "D:\\Programing\\Asp_Net_Core\\Accounting\\Accounting\\IRepository.Accounting\\IRepository.Accounting.csproj"
+              },
+              "D:\\Programing\\Asp_Net_Core\\Accounting\\Accounting\\ViewModel.Accounting\\ViewModel.Accounting.csproj": {
+                "projectPath": "D:\\Programing\\Asp_Net_Core\\Accounting\\Accounting\\ViewModel.Accounting\\ViewModel.Accounting.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[1.60.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Programing\\Asp_Net_Core\\Accounting\\Accounting\\ViewModel.Accounting\\ViewModel.Accounting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programing\\Asp_Net_Core\\Accounting\\Accounting\\ViewModel.Accounting\\ViewModel.Accounting.csproj",
+        "projectName": "ViewModel.Accounting",
+        "projectPath": "D:\\Programing\\Asp_Net_Core\\Accounting\\Accounting\\ViewModel.Accounting\\ViewModel.Accounting.csproj",
+        "packagesPath": "C:\\Users\\MohammadMahdi\\.nuget\\packages\\",
+        "outputPath": "D:\\Programing\\Asp_Net_Core\\Accounting\\Accounting\\ViewModel.Accounting\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MohammadMahdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[8.4.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

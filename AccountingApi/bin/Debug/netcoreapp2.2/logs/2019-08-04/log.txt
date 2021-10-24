@@ -1,0 +1,30 @@
+2019-08-04 23:05:34.3924|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:16054/api/values  
+2019-08-04 23:05:34.4610|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'AccountingApi.Controllers.ValuesController.Get (AccountingApi)'
+2019-08-04 23:05:34.4828|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "Get", controller = "Values"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[System.String]] Get() on controller AccountingApi.Controllers.ValuesController (AccountingApi).
+2019-08-04 23:05:34.8084|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AccountingApi.Controllers.ValuesController.Get (AccountingApi) - Validation state: Valid
+2019-08-04 23:05:34.8846|INFO|AccountingApi.Controllers.ValuesController|Hello
+2019-08-04 23:05:34.8967|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method AccountingApi.Controllers.ValuesController.Get (AccountingApi), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 12.0029ms.
+2019-08-04 23:05:34.8967|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.String[]'.
+2019-08-04 23:05:34.9343|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AccountingApi.Controllers.ValuesController.Get (AccountingApi) in 126.4629ms
+2019-08-04 23:05:34.9494|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'AccountingApi.Controllers.ValuesController.Get (AccountingApi)'
+2019-08-04 23:05:34.9623|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 569.9537ms 200 application/json; charset=utf-8
+2019-08-04 23:06:23.2290|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:16054/api/values  
+2019-08-04 23:06:23.2897|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'AccountingApi.Controllers.ValuesController.Get (AccountingApi)'
+2019-08-04 23:06:23.3040|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "Get", controller = "Values"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[System.String]] Get() on controller AccountingApi.Controllers.ValuesController (AccountingApi).
+2019-08-04 23:06:23.3209|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AccountingApi.Controllers.ValuesController.Get (AccountingApi) - Validation state: Valid
+2019-08-04 23:06:23.3209|INFO|AccountingApi.Controllers.ValuesController|Hello
+2019-08-04 23:06:23.4006|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method AccountingApi.Controllers.ValuesController.Get (AccountingApi), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 67.759ms.
+2019-08-04 23:06:23.4006|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.String[]'.
+2019-08-04 23:06:23.4196|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AccountingApi.Controllers.ValuesController.Get (AccountingApi) in 99.3392ms
+2019-08-04 23:06:23.4301|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'AccountingApi.Controllers.ValuesController.Get (AccountingApi)'
+2019-08-04 23:06:23.4301|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 212.0886ms 200 application/json; charset=utf-8
+2019-08-04 23:09:29.1980|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:16054/api/values  
+2019-08-04 23:09:29.2333|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'AccountingApi.Controllers.ValuesController.Get (AccountingApi)'
+2019-08-04 23:09:29.2544|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "Get", controller = "Values"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[System.String]] Get() on controller AccountingApi.Controllers.ValuesController (AccountingApi).
+2019-08-04 23:09:29.2708|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method AccountingApi.Controllers.ValuesController.Get (AccountingApi) - Validation state: Valid
+2019-08-04 23:09:29.2988|INFO|AccountingApi.Controllers.ValuesController|Hello
+2019-08-04 23:09:29.3301|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method AccountingApi.Controllers.ValuesController.Get (AccountingApi), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 31.2352ms.
+2019-08-04 23:09:29.3496|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.String[]'.
+2019-08-04 23:09:29.3680|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action AccountingApi.Controllers.ValuesController.Get (AccountingApi) in 97.544ms
+2019-08-04 23:09:29.3882|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'AccountingApi.Controllers.ValuesController.Get (AccountingApi)'
+2019-08-04 23:09:29.4106|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 212.6386ms 200 application/json; charset=utf-8
