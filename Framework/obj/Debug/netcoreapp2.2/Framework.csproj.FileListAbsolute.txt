@@ -1,0 +1,12 @@
+D:\Programing\Asp_Net_Core\Accounting\Accounting\Framework\bin\Debug\netcoreapp2.2\Framework.deps.json
+D:\Programing\Asp_Net_Core\Accounting\Accounting\Framework\bin\Debug\netcoreapp2.2\Framework.dll
+D:\Programing\Asp_Net_Core\Accounting\Accounting\Framework\bin\Debug\netcoreapp2.2\Framework.pdb
+D:\Programing\Asp_Net_Core\Accounting\Accounting\Framework\bin\Debug\netcoreapp2.2\Framework.Enum.dll
+D:\Programing\Asp_Net_Core\Accounting\Accounting\Framework\bin\Debug\netcoreapp2.2\Framework.Enum.pdb
+D:\Programing\Asp_Net_Core\Accounting\Accounting\Framework\obj\Debug\netcoreapp2.2\Framework.csprojAssemblyReference.cache
+D:\Programing\Asp_Net_Core\Accounting\Accounting\Framework\obj\Debug\netcoreapp2.2\Framework.csproj.CoreCompileInputs.cache
+D:\Programing\Asp_Net_Core\Accounting\Accounting\Framework\obj\Debug\netcoreapp2.2\Framework.AssemblyInfoInputs.cache
+D:\Programing\Asp_Net_Core\Accounting\Accounting\Framework\obj\Debug\netcoreapp2.2\Framework.AssemblyInfo.cs
+D:\Programing\Asp_Net_Core\Accounting\Accounting\Framework\obj\Debug\netcoreapp2.2\Framework.csproj.CopyComplete
+D:\Programing\Asp_Net_Core\Accounting\Accounting\Framework\obj\Debug\netcoreapp2.2\Framework.dll
+D:\Programing\Asp_Net_Core\Accounting\Accounting\Framework\obj\Debug\netcoreapp2.2\Framework.pdb
